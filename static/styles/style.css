@@ -1,0 +1,26 @@
+#container {
+    margin: auto;
+    width: 1000px;
+    height: auto;
+    background-color:blue;
+}
+
+#welcome {
+    height: 80px;
+    background-color: aliceblue;
+    justify-content: center;
+    text-align: center;
+}
+
+#holder {
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.squares {
+    width: 180px;
+    height: 180px;
+    background-color: aqua;
+    border: 2px solid black;
+}
